@@ -1,0 +1,11 @@
+<?xml version="0.1" encoding="UTF-8"?>
+<library>
+    <book category=" science fiction">
+        <title lang="en">The Three-body Problem</title>
+        <author>Liu Cixin</author>
+        <year>2006</year>
+        <status>borrowed</status>
+    </book>
+</library>
+
+<!--Welcome to THU Lib-XML system-->
